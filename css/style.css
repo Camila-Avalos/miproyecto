@@ -144,12 +144,12 @@ nav li a {
 }
 .detalleProductosB{
   padding: 10px;
-  color: aliceblue;
+  color: white;
   font-family: 'Tilt Neon';
 }
 .detalleProductosC{
   padding:10px ;
-  color: aliceblue;
+  color: rgb(246, 240, 240);
   font-family: 'Tilt Neon';
 }
 .detalleProdu{
@@ -241,6 +241,13 @@ footer{grid-area: footer;}
   flex-direction: column;}
   footer{display: flex;
   flex-direction: column;}
+  .navbar{
+    display: inline-flex;
+    flex-direction: column;
+    height: 68px;
+    width: 100%;
+    
+  }
 
 
 
